@@ -1,77 +1,69 @@
-# 每日资讯总览（2026-03-10 17:15:02 CST）
+# 每日资讯总览（2026-03-10 19:34:06 CST）
 
 ## AI与科技
 
-1. [Nvidia Is Planning to Launch an Open-Source AI Agent Platform](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/)
-   - 摘要: Ahead of its annual developer conference, Nvidia is readying a new approach to software that embraces AI agents similar to OpenClaw.
+1. [Anthropic Sues Department of Defense Over Supply-Chain-Risk Designation](https://www.wired.com/story/anthropic-sues-department-of-defense-over-supply-chain-risk-designation/)
+   - 摘要: The Claude chatbot developer says the Trump administration overstepped by escalating a contract dispute into a federal ban on the company’s...
    - 来源: Wired - AI
 
-2. [Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon](https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google)
-   - 摘要: On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly...
-   - 来源: The Verge
+2. [How AI is turning the Iran conflict into theater](https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/)
+   - 摘要: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “...
+   - 来源: MIT Technology Review - AI
 
-3. [OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government](https://www.wired.com/story/openai-deepmind-employees-file-amicus-brief-anthropic-dod-lawsuit/)
-   - 摘要: Google DeepMind chief scientist Jeff Dean is among the AI researchers and engineers rushing to Anthropic's defense.
+3. [Feeld Was a Dating App for the Freaks. Now Some People Call It ‘Normie Hell’](https://www.wired.com/story/feeld-was-a-dating-app-for-the-freaks-now-some-people-call-it-normie-hell/)
+   - 摘要: The app that catered to unconventional kinks is gaining steam among daters with vanilla preferences—and some aren’t happy about it.
    - 来源: Wired - AI
 
-4. [Apple’s new M5 Max feels like a huge upgrade if you bought your laptop three years ago](https://www.theverge.com/gadgets/891508/apple-macbook-pro-air-2026-m5-max-benchmark-comparisons-m4-m3-m2-m1)
-   - 摘要: We've been busy testing many new MacBooks, ranging from the new $1,099 M5 MacBook Air, going all the way up the $6,149 16-inch MacBook Pro...
-   - 来源: The Verge
-
-5. [You Could Be Next](https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor)
-   - 摘要: The LinkedIn post seemed like yet another scam job offer, but Katya was desperate enough to click. After college, she’d struggled to make a...
-   - 来源: The Verge
-
-6. [Yann LeCun Raises $1 Billion to Build AI That Understands the Physical World](https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/)
-   - 摘要: Meta’s former chief AI scientist has long argued that human-level AI will come from mastering the physical world, not language. His new sta...
+4. [Can AI Kill the Venture Capitalist?](https://www.wired.com/story/ai-kill-venture-capital/)
+   - 摘要: VCs are betting that artificial intelligence will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?
    - 来源: Wired - AI
 
-7. [The government shutdown is hitting airports — but not ICE](https://www.theverge.com/policy/891686/dhs-government-shutdown-ice-cbp-tsa-airports)
-   - 摘要: Chaos reigned at airports across the country last weekend, with thousands of travelers reportedly waiting in hours-long security lines than...
+5. [Meta’s deepfake moderation isn’t good enough, says Oversight Board](https://www.theverge.com/tech/891933/meta-oversight-board-ai-labels-deepfake-c2pa-facebook-instagram)
+   - 摘要: Meta's methods for identifying deepfakes are "not robust or comprehensive enough" to handle how quickly misinformation spreads during armed...
    - 来源: The Verge
 
-8. [Everything from the last week of everything is gambling now](https://www.theverge.com/tech/891676/kalshi-iran-prediction-markets)
-   - 摘要: Kalshi is facing backlash from its own users after a class action lawsuit was filed last week alleging it failed to pay out as promised for...
+6. [Apple smart home display rumors now point to a fall launch with iOS 27](https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor)
+   - 摘要: The rumored "HomePod with a screen" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, ac...
    - 来源: The Verge
 
-9. [Anthropic Claims Pentagon Feud Could Cost It Billions](https://www.wired.com/story/anthropic-claims-business-is-in-peril-due-to-supply-chain-risk-designation/)
-   - 摘要: Executives at the AI startup say companies paused deal talks after the Trump administration labeled it a supply-chain risk, warning that th...
-   - 来源: Wired - AI
+7. [Bluesky CEO Jay Graber will step aside](https://www.theverge.com/tech/891562/bluesky-new-ceo)
+   - 摘要: Jay Graber became the first CEO of Bluesky in 2021 when the network and its AT Protocol spun out from life as a Twitter research project to...
+   - 来源: The Verge
 
-10. [You can get three months of Disney Plus and Hulu for $15](https://www.theverge.com/gadgets/891598/disney-plus-hulu-academy-awards-deal-sale)
-   - 摘要: If you’re looking for a way to stream the Oscars this weekend, or catch up on nominees like The Secret Agent, the Disney Plus and Hulu bund...
+8. [Apple Studio Display XDR review: pro at a premium](https://www.theverge.com/tech/891436/apple-studio-display-xdr-review)
+   - 摘要: It's been almost exactly four years since Apple released the 5K Studio Display that so many wanted, even if it didn't really deliver as a h...
    - 来源: The Verge
 
 ## 财经与商业
 
-1. [Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired](https://www.cnbc.com/2026/03/10/nvidia-open-source-ai-agent-platform-nemoclaw-wired-agentic-tools-openclaw-clawdbot-moltbot.html)
-   - 摘要: Nvidia is planning to lean into the agentic AI craze and launch an open-source platform for AI agents called 'NemoClaw,' according to a rep...
+1. [Oracle earnings will show whether its expensive AI bet is starting to pay off](https://www.cnbc.com/2026/03/10/oracle-orcl-stock-earnings-ai-data-center.html)
+   - 摘要: Oracle's $300 billion deal with OpenAI established it as a major player in AI cloud computing alongside Amazon, Google and Microsoft.
    - 来源: CNBC - Top News
 
-2. [OpenAI to buy cybersecurity startup Promptfoo to better safeguard AI agents](https://www.cnbc.com/2026/03/09/open-ai-cybersecurity-promptfoo-ai-agents.html)
-   - 摘要: Promptfoo's team will join Sam Altman-led OpenAI, and its technology will be integrated into the Frontier platform for AI agents.
-   - 来源: CNBC - Top News
-
-3. [Iran war threatens catastrophic consequences for the oil market, Aramco CEO says](https://www.cnbc.com/2026/03/10/saudi-aramco-2025-earnings-q4-profit-beat-oil-war.html)
-   - 摘要: Saudi Aramco beats profit estimates and keeps $85 billion payouts as oil prices surge again.
-   - 来源: CNBC - Top News
-
-4. [CNBC Daily Open: Markets recover as Trump hints Iran war is nearing its end](https://www.cnbc.com/2026/03/10/cnbc-daily-open-markets-recover-as-trump-hints-iran-war-is-nearing-its-end.html)
-   - 摘要: U.S. key benchmarks closed in the green after Trump signaled a near end to the Iran war.
-   - 来源: CNBC - Top News
-
-5. [Oracle faces a high bar for earnings as investors look for an AI payoff](https://www.marketwatch.com/story/oracle-faces-a-high-bar-for-earnings-as-investors-look-for-an-ai-payoff-8ecd279e?mod=mw_rss_topstories)
-   - 摘要: Oracle’s stock has been pressured over concerns about whether its AI spending will yield the necessary returns.
+2. [Return to the 2022 stock-market playbook as Iran conflict drags on, say these strategists](https://www.marketwatch.com/story/return-to-the-2022-stock-market-playbook-as-iran-conflict-drags-on-say-these-strategists-7bb7e01b?mod=mw_rss_topstories)
+   - 摘要: Barclays says the chasm between winning and losing stocks in 2022 when Russia invaded Ukraine was huge. Here are their style picks.
    - 来源: MarketWatch - Top Stories
 
-6. [HPE’s stock rises as earnings benefit from two big AI trends](https://www.marketwatch.com/story/hpes-stock-rises-as-earnings-benefit-from-two-big-ai-trends-a3df2732?mod=mw_rss_topstories)
-   - 摘要: The company lifted its outlook for networking revenue and disclosed a big bump in orders for enterprise AI servers.
+3. [Saudi Aramco promises full production can be restored within days if Strait of Hormuz is reopened](https://www.marketwatch.com/story/saudi-aramco-promises-full-production-can-be-restored-within-days-if-strait-of-hormuz-is-reopened-5741bad3?mod=mw_rss_topstories)
+   - 摘要: Aramco’s CEO warns of “catastrophic consequences” for the oil market if the effective closure of the Straits Of Hormuz were to remain for a...
    - 来源: MarketWatch - Top Stories
 
-7. [There's another energy market that may get hit harder than oil by Strait of Hormuz closure](https://www.cnbc.com/2026/03/09/theres-another-energy-market-that-may-get-hit-harder-than-oil-by-strait-of-hormuz-closure.html)
-   - 摘要: Roughly 20% of global liquefied natural gas flows through the Strait.
+4. [Warsh to meet Tillis as Senate confirmation remains blocked](https://www.cnbc.com/2026/03/09/fed-warsh-tillis-nomination-senate.html)
+   - 摘要: Sen. Thom Tillis, R-N.C., has refused to advance Warsh's confirmation until a probe into Fed Chair Jerome Powell is dropped.
    - 来源: CNBC - Top News
 
-8. [European stocks jump 2% as sliding oil prices buoy sentiment](https://www.cnbc.com/2026/03/10/european-markets-stoxx-600-ftse-dax-cac-iran-war-latest-news.html)
-   - 摘要: European equities rebounded on Tuesday as traders continue to watch developments in the Middle East.
+5. [Kevin Mandia sold his cybersecurity company to Google in 2022. He has a fresh $190 million for a new venture](https://www.cnbc.com/2026/03/10/kevin-mandia-raised-190-million-armadin-after-prior-sale-to-google.html)
+   - 摘要: Mandiant founder Kevin Mandia is staying in cybersecurity after selling his prior company to Google, but now he's focused on AI.
+   - 来源: CNBC - Top News
+
+6. [Trump says Iran war will end 'very soon,' predicts lower oil prices](https://www.cnbc.com/2026/03/09/trump-iran-war-end.html)
+   - 摘要: U.S. stock market indexes rose earlier in the day after an initial report that President Donald Trump said he believed the Iran war was lar...
+   - 来源: CNBC - Top News
+
+7. [Surging oil prices could wipe out benefits from Trump’s ‘big beautiful bill’](https://www.cnbc.com/2026/03/10/rising-oil-prices-may-wipe-out-effects-of-trumps-big-beautiful-bill.html)
+   - 摘要: Estimates from Wall Street project that if oil prices stay elevated for too long, consumers will lose as much as they gain from the new tax...
+   - 来源: CNBC - Top News
+
+8. [Iran defends strikes on Gulf neighbors. They say a 'huge trust gap' will last for decades](https://www.cnbc.com/2026/03/10/iran-strikes-gulf-neighbors-us-assets-oil-infrastructure.html)
+   - 摘要: Iran has defended its strikes against its Gulf countries but its neighbors say attacks have damaged trust for a long time.
    - 来源: CNBC - Top News
