@@ -1,61 +1,41 @@
-# 每日资讯总览（2026-03-12 13:33:56 CST）
+# 每日资讯总览（2026-03-12 19:32:38 CST）
 
 ## AI与科技
 
-1. [Alternative app store AltStore PAL is joining the fediverse](https://www.theverge.com/tech/893085/altstore-pal-alternative-app-store-fediverse)
-   - 摘要: AltStore PAL, the alternative iOS app store available in the European Union and Japan, is joining the social web. In a post on Wednesday, A...
+1. [Iran-linked cyber attack targets US medtech giant Stryker](https://www.theverge.com/tech/893524/stryker-iran-us-medtech-cyberattack)
+   - 摘要: US medical equipment provider Stryker said its global networks were disrupted by a cyberattack on Wednesday, allegedly carried out by a hac...
    - 来源: The Verge
-
-2. [This Digital Picture Frame Wants to Bring People Closer to a Holographic Future](https://www.wired.com/story/looking-glass-musubi/)
-   - 摘要: Brooklyn-based Looking Glass has been dabbling in 3D screens for nearly a decade. It's finally launching Musubi, an AI-powered holographic...
-   - 来源: Wired - AI
-
-3. [Hustlers are cashing in on China’s OpenClaw AI craze](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/)
-   - 摘要: Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast. Feng...
-   - 来源: MIT Technology Review - AI
-
-4. [Some of the best horror games ever made are included in Humble’s latest $15 bundle](https://www.theverge.com/gadgets/893314/frictional-games-amnesia-soma-humble-bundle-deal-sale-steam)
-   - 摘要: Humble has teamed up with Frictional Games for a new bundle of PC games that pushed the horror genre forward. The bundle includes the Penum...
-   - 来源: The Verge
-
-5. [iPhone Fold rumor: iPad-like multitasking, but no iPad apps and no Face ID](https://www.theverge.com/tech/893429/iphone-fold-rumor-ipad-multitasking-face-id-rumor)
-   - 摘要: Apple's rumored foldable iPhone will come with an iPad-style interface that will allow users to view apps side-by-side, according to a repo...
-   - 来源: The Verge
-
-6. [14,000 routers are infected by malware that's highly resistant to takedowns](https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/)
-   - 摘要: Most of the devices are made by Asus and are located in the US.
-   - 来源: Ars Technica - Technology
 
 ## 财经与商业
 
-1. [Jim Cramer says these 3 stock market themes could work if the oil shock eases](https://www.cnbc.com/2026/03/11/jim-cramer-says-these-3-stock-market-themes-could-work-if-the-oil-shock-eases.html)
-   - 摘要: Once the dust clears, the "Mad Money" host said investors could look to AI data centers, memory chips, and discount retailers.
-   - 来源: CNBC - Top News
-
-2. [A global food price shock looms as Middle East war rages on. Here's who will be hit hardest](https://www.cnbc.com/2026/03/12/iran-war-food-prices-fertilizer-hormuz-countries-impacted-.html)
-   - 摘要: A widening Middle East conflict that disrupts trade through the Strait of Hormuz could ripple far beyond the energy markets, risking a spik...
-   - 来源: CNBC - Top News
-
-3. [Plans for record emergency oil release signal Middle East war could drag on for months](https://www.cnbc.com/2026/03/12/iea-oil-stockpile-release-middle-east-war-brent-hormuz.html)
-   - 摘要: The degree to which the IEA acted is being interpreted that the conflict could continue for many weeks, said analysts.
-   - 来源: CNBC - Top News
-
-4. [Brent crude hits $100 a barrel as reserve release plans fail to ease Iran war-led supply worries](https://www.cnbc.com/2026/03/12/oil-prices-jump-iea-record-reserve-release-markets-doubt-relief.html)
-   - 摘要: The IEA said Wednesday that its 32 member countries would release 400 million barrels of oil from emergency reserves.
-   - 来源: CNBC - Top News
-
-5. [Dow futures down more than 500 points as Brent crude again tops $100 a barrel](https://www.marketwatch.com/story/dow-futures-down-nearly-500-points-as-oil-prices-continue-to-climb-9affa0b8?mod=mw_rss_topstories)
-   - 摘要: Stock futures tumbled after hours on Wednesday, building on earlier losses for the S&P 500 and Dow Jones Industrial Average, as crude-oil p...
+1. [The chorus of disapproval for private credit gets louder as Morgan Stanley fund is the latest to cap withdrawals](https://www.marketwatch.com/story/the-chorus-of-disapproval-for-private-credit-gets-louder-as-morgan-stanley-fund-is-the-latest-to-cap-withdrawals-a4a514eb?mod=mw_rss_topstories)
+   - 摘要: Investors are becoming increasingly nervous about problems mounting in the $3 trillion private credit market where some creditworthiness is...
    - 来源: MarketWatch - Top Stories
 
-6. [Salesforce makes a big splash in the debt market so it can quickly buy back 14% of its stock](https://www.marketwatch.com/story/salesforce-makes-a-big-splash-in-the-debt-market-so-it-can-quickly-buy-back-14-of-its-stock-fc703f5e?mod=mw_rss_topstories)
-   - 摘要: The software giant will conduct $25 billion worth of accelerated share repurchases after management previously signaled that the stock is t...
+2. [Goldman cuts U.S. economic outlook over the Iran war — and the fear goes beyond oil](https://www.marketwatch.com/story/goldman-cuts-u-s-economic-outlook-over-the-iran-war-and-the-fears-goes-beyond-oil-dd9e1462?mod=mw_rss_topstories)
+   - 摘要: Goldman Sachs economists Manuel Abecasis and David Mericle in a new research note looked at the economic implications of the Iran war on th...
    - 来源: MarketWatch - Top Stories
 
-7. [Petco is leaning on services, fresh food and pet tarantulas — and it is paying off](https://www.marketwatch.com/story/petco-is-leaning-on-services-fresh-food-and-pet-tarantulas-and-it-is-paying-off-3dd720f7?mod=mw_rss_topstories)
-   - 摘要: Shares of Petco Health & Wellness jumped after hours on Wednesday after the pet-supplies retailer said it expects sales to rebound this yea...
-   - 来源: MarketWatch - Top Stories
-
-8. [Iran war: Trump says he's not worried about domestic terror attack](https://www.cnbc.com/2026/03/11/iran-war-trump-domestic-terror-attack.html)
-   - 摘要: President Donald Trump said oil companies should send tankers through the Strait of Hormuz, which has remained effectively closed due to th...
+3. [Oil prices touch $100 again as Iran ramps up shipping attacks in the Persian Gulf](https://www.cnbc.com/2026/03/12/oil-prices-jump-iea-record-reserve-release-markets-doubt-relief.html)
+   - 摘要: Strategists said oil prices were trading higher because there appears to be no end in sight to oil supply disruptions through the Strait of...
    - 来源: CNBC - Top News
+
+4. [TSA workers set to miss first paycheck of shutdown as Senate bickers over DHS funding](https://www.cnbc.com/2026/03/12/senate-dhs-homeland-shutdown-funding-tsa-immigration.html)
+   - 摘要: Democrats and Republicans remain at loggerheads over reopening the Department of Homeland Security.
+   - 来源: CNBC - Top News
+
+5. [India’s consumer inflation rises to 3.21% in February as oil risks loom](https://www.cnbc.com/2026/03/12/india-february-inflation-cpi-oil-hormuz-risk.html)
+   - 摘要: India's inflation for February is within central bank's comfort level range but policy action is unlikely due to rising global energy prices
+   - 来源: CNBC - Top News
+
+6. [Flights are already getting more expensive after jet fuel spike. When should you book?](https://www.cnbc.com/2026/03/12/airfare-prices-jet-fuel-iran-war.html)
+   - 摘要: Some airlines are already raising fares after a historic surge in jet-fuel costs.
+   - 来源: CNBC - Top News
+
+7. [Trump raises the stakes on China with Section 301 trade probe, weeks before Beijing summit](https://www.cnbc.com/2026/03/12/section-301-trade-probe-china-trump-xi-beijing-summit.html)
+   - 摘要: Trump raises the stakes on China with Section 301 probe ahead of Beijing summit
+   - 来源: CNBC - Top News
+
+8. [The truth behind 401(k) withdrawal numbers: People aren’t being reckless — they’re desperate](https://www.marketwatch.com/story/the-truth-behind-401-k-withdrawal-numbers-people-arent-being-reckless-theyre-desperate-85645e70?mod=mw_rss_topstories)
+   - 摘要: The good news is that low-income workers taking out hardship withdrawals are still saving, thanks to auto-enrollment.
+   - 来源: MarketWatch - Top Stories
