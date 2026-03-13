@@ -1,65 +1,49 @@
-# 每日资讯总览（2026-03-13 13:31:59 CST）
+# 每日资讯总览（2026-03-13 19:32:31 CST）
 
 ## AI与科技
 
-1. [Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now](https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams)
-   - 摘要: Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your con...
+1. [Apple reduces App Store fees in China to ward off regulators](https://www.theverge.com/tech/894306/apple-app-store-fees-china-reduced-antitrust)
+   - 摘要: Apple is cutting App Store developer fees in China from March 15th, dropping its typical commission on purchases from 30 percent down to 25...
    - 来源: The Verge
 
-2. [Google Maps Gets Chatty With a New Gemini-Powered Interface](https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/)
-   - 摘要: “Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.
+2. [Gamers’ Worst Nightmares About AI Are Coming True](https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/)
+   - 摘要: From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest...
    - 来源: Wired - AI
 
-3. [Meta exec hopes VR teens will stick around](https://www.theverge.com/column/893526/meta-vr-games-teens)
-   - 摘要: This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge...
-   - 来源: The Verge
-
-4. [Building a strong data infrastructure for AI agent success](https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/)
-   - 摘要: In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and auto...
-   - 来源: MIT Technology Review - AI
-
-5. [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
-   - 摘要: Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip betw...
-   - 来源: The Verge
-
-6. [KPop Demon Hunters is getting a sequel, obviously](https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel)
-   - 摘要: Get ready to get even more K-pop, demonier, and as huntery as possible. Netflix's smash-hit, Oscar-nominated animated film KPop Demon Hunte...
-   - 来源: The Verge
-
-7. [What it was like to watch grieving parents stare down Mark Zuckerberg in court](https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube)
-   - 摘要: Around a dozen parents huddled in the dim hallway outside the courtroom in February, nervously gripping paper tickets. They were glaring at...
-   - 来源: The Verge
+3. [Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans](https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/)
+   - 摘要: Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest ne...
+   - 来源: Wired - AI
 
 ## 财经与商业
 
-1. [Sam Altman faced 'serious questions' in meeting with lawmakers about OpenAI's defense work](https://www.cnbc.com/2026/03/12/sam-altman-faced-serious-questions-in-dc-meeting-openai-defense-work.html)
-   - 摘要: OpenAI CEO Sam Altman met with a handful of lawmakers in Washington, D.C., to discuss the company's work with the Defense Department.
+1. [Brent oil futures climb above $100 on continued disruption to Strait of Hormuz traffic](https://www.marketwatch.com/story/brent-oil-futures-climb-above-100-on-continued-disruption-to-strait-of-hormuz-traffic-764be61b?mod=mw_rss_topstories)
+   - 摘要: Prices have spiked after Iran’s new supreme leader broke his silence and called for the Strait of Hormuz to stay closed.
+   - 来源: MarketWatch - Top Stories
+
+2. [Oil holds above $100 as Trump says America ‘has ammunition and plenty of time’ to fight Iran war](https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html)
+   - 摘要: WTI crude saw its biggest weekly gain since the 1980s last week.
    - 来源: CNBC - Top News
 
-2. [Fed chair pick Kevin Warsh meets with more senators as Thom Tillis blockade continues](https://www.cnbc.com/2026/03/12/fed-kevin-warsh-trump-thom-tillis-senate.html)
-   - 摘要: Sen. Tillis vows to vote against sending Kevin Warsh's nomination as Federal Reserve chair to the full Senate as a criminal probe of Jerome...
-   - 来源: CNBC - Top News
-
-3. [U.S. allows temporary purchases of Russian oil already at sea to stabilize energy markets](https://www.cnbc.com/2026/03/13/bessent-us-allows-purchase-russian-oil-stranded-sea-energy-markets.html)
-   - 摘要: The U.S. has temporarily authorized the purchase of Russian oil stranded at sea to stabilize energy markets.
-   - 来源: CNBC - Top News
-
-4. [U.S. launches rescue efforts after military refueling plane crashes over Iraq](https://www.cnbc.com/2026/03/13/us-kc135-crash-iraq-iran-threats-shipping-attacks.html)
+3. [Four crew killed in U.S. refueling plane that crashed in Iraq, Pentagon says](https://www.cnbc.com/2026/03/13/us-kc135-crash-iraq-iran-threats-shipping-attacks.html)
    - 摘要: The U.S. Central Command said that the loss was "not due to hostile or enemy fire."
    - 来源: CNBC - Top News
 
-5. [Palantir's technology gives the West a critical edge in Middle East, CEO Alex Karp says](https://www.cnbc.com/2026/03/12/palantir-tech-gives-west-critical-edge-in-middle-east-ceo-alex-karp.html)
-   - 摘要: Palantir CEO Alex Karp sat down exclusively with CNBC to discuss the Iran war and how AI is being used in wartime.
+4. [Why a 1980s conflict may be the best market analog for the current Iran situation](https://www.marketwatch.com/story/why-a-1980s-conflict-may-be-the-best-market-analog-for-the-current-iran-situation-4e0d404a?mod=mw_rss_topstories)
+   - 摘要: Citi’s global macro strategy team led by Dirk Willer went in search of historical analogs, looking through the last five oil crises
+   - 来源: MarketWatch - Top Stories
+
+5. [‘Healthcare is important to me’: I’m worried about relocating to Florida from New Jersey. Are hospitals there under stress?](https://www.marketwatch.com/story/healthcare-is-important-to-me-im-worried-about-relocating-to-florida-from-new-jersey-are-hospitals-there-under-stress-5c270b07?mod=mw_rss_topstories)
+   - 摘要: “The issue is not the weather, high insurance premiums or high maintenance fees.”
+   - 来源: MarketWatch - Top Stories
+
+6. [Who is really footing the AI energy bill? Inside the debate about data center electricity costs](https://www.cnbc.com/2026/03/13/ai-data-centers-electricity-prices-backlash-ratepayer-protection.html)
+   - 摘要: The hyperscalers racing to build the data centers needed for the AI boom have a PR crisis on their hands, but the industry is not taking th...
    - 来源: CNBC - Top News
 
-6. [Netflix is spending up to $600 million to buy Ben Affleck’s AI startup. What exactly is it buying?](https://www.marketwatch.com/story/netflix-is-spending-up-to-600-million-to-buy-ben-afflecks-ai-startup-what-exactly-is-it-buying-8435f02e?mod=mw_rss_topstories)
-   - 摘要: A week after backing away from buying Warner Bros. Discovery, Netflix decides to buy rather than build AI tools for filmmakers.
-   - 来源: MarketWatch - Top Stories
+7. [Tesla's China sales climb in the first two months of 2026 while BYD numbers drop](https://www.cnbc.com/2026/03/13/teslas-china-sales-climb-in-the-first-two-months-of-2026-while-byd-numbers-drop.html)
+   - 摘要: Sales of Tesla's China-made electric vehicles rose in the first two months of 2026, from the year before, regaining lost ground to China's...
+   - 来源: CNBC - Top News
 
-7. [Ulta Beauty says it’s ‘increasingly mindful’ of effects that global conflicts have on shoppers, as profit forecast sinks stock](https://www.marketwatch.com/story/ulta-beauty-says-its-increasingly-mindful-of-effects-that-global-conflicts-have-on-shoppers-as-profit-forecast-sinks-stock-b03cc1c3?mod=mw_rss_topstories)
-   - 摘要: Shares of Ulta Beauty slid after hours on Thursday after the cosmetics retailer forecast a profit and same-store sales for this year that w...
-   - 来源: MarketWatch - Top Stories
-
-8. [Shoppers seeking a tariff refund from retailers are likely out of luck](https://www.marketwatch.com/story/shoppers-seeking-a-tariff-refund-from-retailers-are-likely-out-of-luck-5aacf5f4?mod=mw_rss_topstories)
-   - 摘要: A new lawsuit alleges that Costco owes shoppers refunds for tariffs, but experts say that’s a tough call.
-   - 来源: MarketWatch - Top Stories
+8. [Ulta Beauty stock drops as company reports mixed earnings, gives 2026 guidance](https://www.cnbc.com/2026/03/12/ulta-beauty-ulta-q4-earnings-2025.html)
+   - 摘要: Ulta Beauty reported fiscal fourth-quarter earnings Thursday that beat Wall Street revenue expectations but missed on earnings per share.
+   - 来源: CNBC - Top News
