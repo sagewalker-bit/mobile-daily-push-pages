@@ -1,77 +1,65 @@
-# 每日资讯总览（2026-03-13 11:31:29 CST）
+# 每日资讯总览（2026-03-13 13:31:59 CST）
 
 ## AI与科技
 
-1. [Gemini’s task automation is here and it’s wild](https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10)
-   - 摘要: A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with...
+1. [Anthropic’s Claude AI can respond with charts, diagrams, and other visuals now](https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams)
+   - 摘要: Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your con...
    - 来源: The Verge
 
-2. [Google Is Not Ruling Out Ads in Gemini](https://www.wired.com/story/google-nick-fox-advertising-search-ai-gemini/)
-   - 摘要: WIRED spoke with Nick Fox, Google’s SVP of knowledge and information, about how AI is changing the company’s advertising business.
+2. [Google Maps Gets Chatty With a New Gemini-Powered Interface](https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/)
+   - 摘要: “Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.
    - 来源: Wired - AI
 
-3. [Pragmatic by design: Engineering AI for the real world](https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/)
-   - 摘要: The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appli...
+3. [Meta exec hopes VR teens will stick around](https://www.theverge.com/column/893526/meta-vr-games-teens)
+   - 摘要: This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge...
+   - 来源: The Verge
+
+4. [Building a strong data infrastructure for AI agent success](https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/)
+   - 摘要: In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and auto...
    - 来源: MIT Technology Review - AI
 
-4. [A defense official reveals how AI chatbots could be used for targeting decisions](https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/)
-   - 摘要: The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about whi...
-   - 来源: MIT Technology Review - AI
-
-5. [The who, what, and why of the attack that has shut down Stryker's Windows network](https://arstechnica.com/security/2026/03/whats-known-about-wiper-attack-on-stryker-a-major-supplier-of-lifesaving-devices/)
-   - 摘要: Company says it doesn't know how long it will take to restore its Microsoft environment.
-   - 来源: Ars Technica - Technology
-
-6. [Google Chrome is coming to Arm-powered Linux devices later this year](https://www.theverge.com/tech/894095/google-chrome-for-arm-linux)
-   - 摘要: You can download Chrome for Linux, and you can download Chrome for Arm devices - but if you've got a computer running Linux on Arm, not so...
+5. [The best Bluetooth trackers for Apple and Android phones](https://www.theverge.com/23769840/best-bluetooth-trackers)
+   - 摘要: Some people rarely lose things. Wallets are always exactly where they’re supposed to be, keys never go missing, and remotes never slip betw...
    - 来源: The Verge
 
-7. [‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs](https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/)
-   - 摘要: In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.
-   - 来源: Wired - AI
-
-8. [The original AirTag is the cheapest it’s ever been](https://www.theverge.com/gadgets/894007/apple-airtag-first-generation-deal-sale)
-   - 摘要: Despite the fact Apple released a new AirTag in January, the first-generation AirTag is still a top-notch tracker if you’re embedded in App...
+6. [KPop Demon Hunters is getting a sequel, obviously](https://www.theverge.com/entertainment/894014/kpop-demon-hunters-sequel)
+   - 摘要: Get ready to get even more K-pop, demonier, and as huntery as possible. Netflix's smash-hit, Oscar-nominated animated film KPop Demon Hunte...
    - 来源: The Verge
 
-9. [Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages](https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings)
-   - 摘要: Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more effici...
-   - 来源: The Verge
-
-10. [Google’s TV Streamer 4K doubles as a smart home hub and it’s on sale](https://www.theverge.com/gadgets/893822/google-tv-streamer-4k-oscars-march-madness-deal-sale)
-   - 摘要: Between March Madness and the Oscars, now might be a good time to improve your TV setup. Google’s TV Streamer 4K is currently on sale for $...
+7. [What it was like to watch grieving parents stare down Mark Zuckerberg in court](https://www.theverge.com/policy/893930/social-media-addiction-trial-los-angeles-zuckerberg-instagram-youtube)
+   - 摘要: Around a dozen parents huddled in the dim hallway outside the courtroom in February, nervously gripping paper tickets. They were glaring at...
    - 来源: The Verge
 
 ## 财经与商业
 
-1. [Microsoft top Office executive Rajesh Jha retiring after more than 35 years](https://www.cnbc.com/2026/03/12/microsofts-top-office-executive-rajesh-jha-retiring-after-35-years.html)
-   - 摘要: Rajesh Jha helped Microsoft bring to market an artificial intelligence assistant containing OpenAI models for its Office productivity custo...
+1. [Sam Altman faced 'serious questions' in meeting with lawmakers about OpenAI's defense work](https://www.cnbc.com/2026/03/12/sam-altman-faced-serious-questions-in-dc-meeting-openai-defense-work.html)
+   - 摘要: OpenAI CEO Sam Altman met with a handful of lawmakers in Washington, D.C., to discuss the company's work with the Defense Department.
    - 来源: CNBC - Top News
 
-2. [Jim Cramer: Don't let Iran war-induced market volatility scare you out of stocks](https://www.cnbc.com/2026/03/12/jim-cramer-dont-let-iran-war-induced-market-volatility-scare-you-out-of-stocks.html)
-   - 摘要: "Believe me, you'll be kicking yourself if you sell everything and then you have to watch this market rebound without you," CNBC Jim Cramer...
+2. [Fed chair pick Kevin Warsh meets with more senators as Thom Tillis blockade continues](https://www.cnbc.com/2026/03/12/fed-kevin-warsh-trump-thom-tillis-senate.html)
+   - 摘要: Sen. Tillis vows to vote against sending Kevin Warsh's nomination as Federal Reserve chair to the full Senate as a criminal probe of Jerome...
    - 来源: CNBC - Top News
 
-3. [Markets' hopes for Fed interest rate cuts are rapidly fading away](https://www.cnbc.com/2026/03/12/markets-hopes-for-fed-interest-rate-cuts-are-rapidly-fading-away.html)
-   - 摘要: As both energy prices and inflation fears pop higher, expectations for cuts are sliding lower.
+3. [U.S. allows temporary purchases of Russian oil already at sea to stabilize energy markets](https://www.cnbc.com/2026/03/13/bessent-us-allows-purchase-russian-oil-stranded-sea-energy-markets.html)
+   - 摘要: The U.S. has temporarily authorized the purchase of Russian oil stranded at sea to stabilize energy markets.
    - 来源: CNBC - Top News
 
-4. [EV maker Lucid reveals plans for robotaxi, positive free cash flow late this decade](https://www.cnbc.com/2026/03/12/lucid-investor-day.html)
-   - 摘要: The EV company is aiming to hit that target through market expansion into midsize vehicles, robotaxis and new counties, specifically in Eur...
+4. [U.S. launches rescue efforts after military refueling plane crashes over Iraq](https://www.cnbc.com/2026/03/13/us-kc135-crash-iraq-iran-threats-shipping-attacks.html)
+   - 摘要: The U.S. Central Command said that the loss was "not due to hostile or enemy fire."
    - 来源: CNBC - Top News
 
-5. [Asia-Pacific markets tumble as investors brace for a prolonged war in Middle East](https://www.cnbc.com/2026/03/13/asia-pacific-markets-today-nikkei-225-kospi-hang-seng-csi300.html)
-   - 摘要: Iran's new Supreme Leader Mojtaba Khamenei said in a late Thursday speech that the Strait of Hormuz, a vital artery for global oil trade, s...
+5. [Palantir's technology gives the West a critical edge in Middle East, CEO Alex Karp says](https://www.cnbc.com/2026/03/12/palantir-tech-gives-west-critical-edge-in-middle-east-ceo-alex-karp.html)
+   - 摘要: Palantir CEO Alex Karp sat down exclusively with CNBC to discuss the Iran war and how AI is being used in wartime.
    - 来源: CNBC - Top News
 
-6. [Rivian is fulfilling its promise to launch a $45,000 EV, but there’s a catch](https://www.marketwatch.com/story/rivian-is-fulfilling-its-promise-to-launch-a-45-000-ev-but-theres-a-catch-598d33d0?mod=mw_rss_topstories)
-   - 摘要: The EV maker just revealed pricing details for its new R2 lineup. Rivian will first launch a $57,990 model, with plans to debut a $45,000 v...
+6. [Netflix is spending up to $600 million to buy Ben Affleck’s AI startup. What exactly is it buying?](https://www.marketwatch.com/story/netflix-is-spending-up-to-600-million-to-buy-ben-afflecks-ai-startup-what-exactly-is-it-buying-8435f02e?mod=mw_rss_topstories)
+   - 摘要: A week after backing away from buying Warner Bros. Discovery, Netflix decides to buy rather than build AI tools for filmmakers.
    - 来源: MarketWatch - Top Stories
 
-7. [Why Adobe’s stock is falling despite an earnings beat](https://www.marketwatch.com/story/why-adobes-stock-is-falling-despite-an-earnings-beat-b6a67617?mod=mw_rss_topstories)
-   - 摘要: Adobe’s longtime CEO is stepping down, and the lack of acceleration on a key metric signaled that AI isn’t driving significant financial be...
+7. [Ulta Beauty says it’s ‘increasingly mindful’ of effects that global conflicts have on shoppers, as profit forecast sinks stock](https://www.marketwatch.com/story/ulta-beauty-says-its-increasingly-mindful-of-effects-that-global-conflicts-have-on-shoppers-as-profit-forecast-sinks-stock-b03cc1c3?mod=mw_rss_topstories)
+   - 摘要: Shares of Ulta Beauty slid after hours on Thursday after the cosmetics retailer forecast a profit and same-store sales for this year that w...
    - 来源: MarketWatch - Top Stories
 
-8. [Trump is scrambling to quell the rise of $100 oil. But the market keeps circling one answer.](https://www.marketwatch.com/story/trump-is-scrambling-to-quell-the-rise-of-100-oil-but-the-market-keeps-circling-one-answer-bf9abf20?mod=mw_rss_topstories)
-   - 摘要: Other efforts to coax oil down prices — now at $100 a barrel — are like putting a Band-Aid on a shotgun wound, says analyst
+8. [Shoppers seeking a tariff refund from retailers are likely out of luck](https://www.marketwatch.com/story/shoppers-seeking-a-tariff-refund-from-retailers-are-likely-out-of-luck-5aacf5f4?mod=mw_rss_topstories)
+   - 摘要: A new lawsuit alleges that Costco owes shoppers refunds for tariffs, but experts say that’s a tough call.
    - 来源: MarketWatch - Top Stories
