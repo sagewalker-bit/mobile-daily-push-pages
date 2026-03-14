@@ -1,49 +1,77 @@
-# 每日资讯总览（2026-03-13 19:32:31 CST）
+# 每日资讯总览（2026-03-14 11:30:11 CST）
 
 ## AI与科技
 
-1. [Apple reduces App Store fees in China to ward off regulators](https://www.theverge.com/tech/894306/apple-app-store-fees-china-reduced-antitrust)
-   - 摘要: Apple is cutting App Store developer fees in China from March 15th, dropping its typical commission on purchases from 30 percent down to 25...
+1. [Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year](https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles)
+   - 摘要: Xbox is getting ready to launch its Gaming Copilot AI assistant on "current-generation consoles" this year, according to a report from Game...
    - 来源: The Verge
 
-2. [Gamers’ Worst Nightmares About AI Are Coming True](https://www.wired.com/story/gamers-ai-nightmares-are-coming-true/)
-   - 摘要: From the global RAM shortage driving up console prices to job loss in the industry, gaming is shaping up to be one of the AI boom's biggest...
+2. [Google Pixel 10A review: Just buy the 9A](https://www.theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera)
+   - 摘要: I'm not entirely sure why the Pixel 10A exists. Google hasn't upgraded the chipset, cameras, or battery in the new phone, and the tweaks it...
+   - 来源: The Verge
+
+3. [Why physical AI is becoming manufacturing’s next advantage](https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/)
+   - 摘要: For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered mea...
+   - 来源: MIT Technology Review - AI
+
+4. [Google's AI Search Results Love to Refer You Back to Google](https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/)
+   - 摘要: The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.
    - 来源: Wired - AI
 
-3. [Palantir Demos Show How the Military Could Use AI Chatbots to Generate War Plans](https://www.wired.com/story/palantir-demos-show-how-the-military-can-use-ai-chatbots-to-generate-war-plans/)
-   - 摘要: Software demos and Pentagon records detail how chatbots like Anthropic’s Claude could help the Pentagon analyze intelligence and suggest ne...
+5. [China’s OpenClaw Boom Is a Gold Rush for AI Companies](https://www.wired.com/story/china-is-going-all-in-on-openclaw/)
+   - 摘要: Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for...
    - 来源: Wired - AI
+
+6. [States’ anti-monopoly case against Live Nation continues Monday](https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial)
+   - 摘要: The Live Nation-Ticketmaster trial is back on. Dozens of states are expected to move forward with their claims against the company's allege...
+   - 来源: The Verge
+
+7. [Digg’s open beta shuts down after just two months, blaming AI bot spam](https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai)
+   - 摘要: It's only been a year since Digg founder Kevin Rose, Reddit cofounder Alexis Ohanian, and a few others announced the link-sharing site woul...
+   - 来源: The Verge
+
+8. [Supply-chain attack using invisible code hits GitHub and other repositories](https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/)
+   - 摘要: Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.
+   - 来源: Ars Technica - Technology
+
+9. [Adobe will pay $75 million to settle US cancellation fee lawsuit](https://www.theverge.com/tech/894555/adobe-75-million-doj-settlement-subscriptions)
+   - 摘要: Adobe says it will pay $75 million to resolve a lawsuit filed by the US government alleging that the creative software giant harmed consume...
+   - 来源: The Verge
+
+10. [Spotify tests letting users directly customize their Taste Profile](https://www.theverge.com/entertainment/894753/spotify-taste-profile)
+   - 摘要: Spotify Premium users in New Zealand will be the first to experience the service's latest personalization feature. The company is letting u...
+   - 来源: The Verge
 
 ## 财经与商业
 
-1. [Brent oil futures climb above $100 on continued disruption to Strait of Hormuz traffic](https://www.marketwatch.com/story/brent-oil-futures-climb-above-100-on-continued-disruption-to-strait-of-hormuz-traffic-764be61b?mod=mw_rss_topstories)
-   - 摘要: Prices have spiked after Iran’s new supreme leader broke his silence and called for the Strait of Hormuz to stay closed.
+1. [Nvidia's GTC will mark an AI chip pivot. Here's why the CPU is taking center stage](https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html)
+   - 摘要: Nvidia and AMD are seeing huge demand for CPUs and Jensen Huang is poised to unveil details for processors specialized for agentic AI at th...
+   - 来源: CNBC - Top News
+
+2. [Dividend stocks are catching up to tech stocks on a key earnings metric at a critical time for the market](https://www.cnbc.com/2026/03/13/dividend-stocks-tech-earnings-growth-market.html)
+   - 摘要: Dividend stocks are closing the earnings growth gap with tech stocks, a reason for investors seeking safety in a volatile market to favor i...
+   - 来源: CNBC - Top News
+
+3. [DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe](https://www.cnbc.com/2026/03/13/fed-jerome-powell-investigation-trump-pirro-doj.html)
+   - 摘要: Federal Reserve Chair Jerome Powell is purportedly being investigated for comments he made about the pricey renovations of the Fed's headqu...
+   - 来源: CNBC - Top News
+
+4. [Warren Buffett’s sage advice about fear and greed is a trap in this market](https://www.marketwatch.com/story/warren-buffetts-sage-advice-about-fear-and-greed-is-a-trap-in-this-market-8d2d69c4?mod=mw_rss_topstories)
+   - 摘要: Instead of buying more stocks when volatility rises, you should sell.
    - 来源: MarketWatch - Top Stories
 
-2. [Oil holds above $100 as Trump says America ‘has ammunition and plenty of time’ to fight Iran war](https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html)
-   - 摘要: WTI crude saw its biggest weekly gain since the 1980s last week.
+5. [Elon Musk says xAI must be 'rebuilt' as co-founder exodus continues, SpaceX IPO awaits](https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html)
+   - 摘要: With xAI now in the hands of SpaceX, Elon Musk says he's rebuilding the artificial intelligence company following high-level departures.
    - 来源: CNBC - Top News
 
-3. [Four crew killed in U.S. refueling plane that crashed in Iraq, Pentagon says](https://www.cnbc.com/2026/03/13/us-kc135-crash-iraq-iran-threats-shipping-attacks.html)
-   - 摘要: The U.S. Central Command said that the loss was "not due to hostile or enemy fire."
-   - 来源: CNBC - Top News
-
-4. [Why a 1980s conflict may be the best market analog for the current Iran situation](https://www.marketwatch.com/story/why-a-1980s-conflict-may-be-the-best-market-analog-for-the-current-iran-situation-4e0d404a?mod=mw_rss_topstories)
-   - 摘要: Citi’s global macro strategy team led by Dirk Willer went in search of historical analogs, looking through the last five oil crises
+6. [Kevin Warsh’s Fed confirmation faces new delay, key senator says. Here’s why.](https://www.marketwatch.com/story/kevin-warshs-fed-confirmation-faces-new-delay-key-senator-says-heres-why-3ffdfa39?mod=mw_rss_topstories)
+   - 摘要: A key U.S. senator warned that Kevin Warsh’s confirmation as the next head of the Federal Reserve faces a fresh delay amid a legal setback...
    - 来源: MarketWatch - Top Stories
 
-5. [‘Healthcare is important to me’: I’m worried about relocating to Florida from New Jersey. Are hospitals there under stress?](https://www.marketwatch.com/story/healthcare-is-important-to-me-im-worried-about-relocating-to-florida-from-new-jersey-are-hospitals-there-under-stress-5c270b07?mod=mw_rss_topstories)
-   - 摘要: “The issue is not the weather, high insurance premiums or high maintenance fees.”
-   - 来源: MarketWatch - Top Stories
-
-6. [Who is really footing the AI energy bill? Inside the debate about data center electricity costs](https://www.cnbc.com/2026/03/13/ai-data-centers-electricity-prices-backlash-ratepayer-protection.html)
-   - 摘要: The hyperscalers racing to build the data centers needed for the AI boom have a PR crisis on their hands, but the industry is not taking th...
+7. [AI agents could easily send college grad unemployment over 30%, ServiceNow CEO says](https://www.cnbc.com/2026/03/13/software-ai-agents-college-graduate-unemployment.html)
+   - 摘要: Technology companies, including Block and Atlassian, have already cut jobs this year due to AI adoption.
    - 来源: CNBC - Top News
 
-7. [Tesla's China sales climb in the first two months of 2026 while BYD numbers drop](https://www.cnbc.com/2026/03/13/teslas-china-sales-climb-in-the-first-two-months-of-2026-while-byd-numbers-drop.html)
-   - 摘要: Sales of Tesla's China-made electric vehicles rose in the first two months of 2026, from the year before, regaining lost ground to China's...
-   - 来源: CNBC - Top News
-
-8. [Ulta Beauty stock drops as company reports mixed earnings, gives 2026 guidance](https://www.cnbc.com/2026/03/12/ulta-beauty-ulta-q4-earnings-2025.html)
-   - 摘要: Ulta Beauty reported fiscal fourth-quarter earnings Thursday that beat Wall Street revenue expectations but missed on earnings per share.
+8. [India's Modi reaches out to Iran as energy crunch fears grip the South Asian nation](https://www.cnbc.com/2026/03/13/indias-modi-reaches-out-to-iran-as-energy-crunch-fears-grip-the-south-asian-nation-.html)
+   - 摘要: The closure of the Strait of Hormuz for longer could deepen the worries of the world's fastest-growing economy
    - 来源: CNBC - Top News
