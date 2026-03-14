@@ -1,77 +1,53 @@
-# 每日资讯总览（2026-03-14 11:30:11 CST）
+# 每日资讯总览（2026-03-14 13:30:16 CST）
 
 ## AI与科技
 
-1. [Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year](https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles)
-   - 摘要: Xbox is getting ready to launch its Gaming Copilot AI assistant on "current-generation consoles" this year, according to a report from Game...
+1. [Trump Mobile is just one in the crowd of conservative carriers](https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty)
+   - 摘要: Where's the Trump phone? We're going to keep talking about it every week. This week, I wanted to see how Trump Mobile stacks up to its cons...
    - 来源: The Verge
 
-2. [Google Pixel 10A review: Just buy the 9A](https://www.theverge.com/tech/894319/google-pixel-10a-review-screen-specs-battery-camera)
-   - 摘要: I'm not entirely sure why the Pixel 10A exists. Google hasn't upgraded the chipset, cameras, or battery in the new phone, and the tweaks it...
+2. [Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used](https://www.theverge.com/tech/894752/instagram-end-to-end-encryption)
+   - 摘要: Instagram will no longer support end-to-end encrypted messages starting May 8th. In a statement to The Verge, Meta spokesperson Dina El-Kas...
    - 来源: The Verge
 
-3. [Why physical AI is becoming manufacturing’s next advantage](https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/)
-   - 摘要: For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered mea...
-   - 来源: MIT Technology Review - AI
-
-4. [Google's AI Search Results Love to Refer You Back to Google](https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/)
-   - 摘要: The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.
-   - 来源: Wired - AI
-
-5. [China’s OpenClaw Boom Is a Gold Rush for AI Companies](https://www.wired.com/story/china-is-going-all-in-on-openclaw/)
-   - 摘要: Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for...
-   - 来源: Wired - AI
-
-6. [States’ anti-monopoly case against Live Nation continues Monday](https://www.theverge.com/policy/894851/states-live-nation-monopoly-trial)
-   - 摘要: The Live Nation-Ticketmaster trial is back on. Dozens of states are expected to move forward with their claims against the company's allege...
+3. [Backbone’s versatile pro controller is nearly matching its best price to date](https://www.theverge.com/gadgets/893862/backbone-pro-mobile-controller-cmf-watch-3-deal-sale)
+   - 摘要: Mobile gaming has come a long way over the course of the last decade or so, but we all know that smartphones simply can’t match the viscera...
    - 来源: The Verge
 
-7. [Digg’s open beta shuts down after just two months, blaming AI bot spam](https://www.theverge.com/tech/894803/digg-beta-shutdown-layoffs-ai)
-   - 摘要: It's only been a year since Digg founder Kevin Rose, Reddit cofounder Alexis Ohanian, and a few others announced the link-sharing site woul...
-   - 来源: The Verge
-
-8. [Supply-chain attack using invisible code hits GitHub and other repositories](https://arstechnica.com/security/2026/03/supply-chain-attack-using-invisible-code-hits-github-and-other-repositories/)
-   - 摘要: Unicode that's invisible to the human eye was largely abandoned—until attackers took notice.
-   - 来源: Ars Technica - Technology
-
-9. [Adobe will pay $75 million to settle US cancellation fee lawsuit](https://www.theverge.com/tech/894555/adobe-75-million-doj-settlement-subscriptions)
-   - 摘要: Adobe says it will pay $75 million to resolve a lawsuit filed by the US government alleging that the creative software giant harmed consume...
-   - 来源: The Verge
-
-10. [Spotify tests letting users directly customize their Taste Profile](https://www.theverge.com/entertainment/894753/spotify-taste-profile)
-   - 摘要: Spotify Premium users in New Zealand will be the first to experience the service's latest personalization feature. The company is letting u...
+4. [Ninja’s star Creami ice cream maker is on sale for $169](https://www.theverge.com/gadgets/894461/ninja-creami-5-in-1-ice-cream-maker-deal-sale)
+   - 摘要: If you’ve ever wanted more control over what goes into your ice cream, the Ninja Creami 5‑in‑1 Ice Cream Maker makes it easy. The ice cream...
    - 来源: The Verge
 
 ## 财经与商业
 
-1. [Nvidia's GTC will mark an AI chip pivot. Here's why the CPU is taking center stage](https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html)
-   - 摘要: Nvidia and AMD are seeing huge demand for CPUs and Jensen Huang is poised to unveil details for processors specialized for agentic AI at th...
+1. [Trump says U.S. 'obliterated' military targets on Iran's Kharg Island but didn't 'wipe out' oil infrastructure](https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html)
+   - 摘要: President Trump said in a Truth Social post that he directed U.S. Central Command to execute a bombing raid that "obliterated" military tar...
    - 来源: CNBC - Top News
 
-2. [Dividend stocks are catching up to tech stocks on a key earnings metric at a critical time for the market](https://www.cnbc.com/2026/03/13/dividend-stocks-tech-earnings-growth-market.html)
-   - 摘要: Dividend stocks are closing the earnings growth gap with tech stocks, a reason for investors seeking safety in a volatile market to favor i...
+2. [Uber ex-CEO Kalanick rebrands latest venture Atoms, expands into mining and transport](https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html)
+   - 摘要: Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
    - 来源: CNBC - Top News
 
-3. [DOJ to appeal judge's decision to block Fed subpoenas in Powell criminal probe](https://www.cnbc.com/2026/03/13/fed-jerome-powell-investigation-trump-pirro-doj.html)
-   - 摘要: Federal Reserve Chair Jerome Powell is purportedly being investigated for comments he made about the pricey renovations of the Fed's headqu...
+3. [Mortgage rates surge to highest since September, hitting spring housing market](https://www.cnbc.com/2026/03/13/mortgage-rates-7-month-high.html)
+   - 摘要: Mortgage rates jumped to a seven-month high Friday as war in Iran pushed bond yields higher.
    - 来源: CNBC - Top News
 
-4. [Warren Buffett’s sage advice about fear and greed is a trap in this market](https://www.marketwatch.com/story/warren-buffetts-sage-advice-about-fear-and-greed-is-a-trap-in-this-market-8d2d69c4?mod=mw_rss_topstories)
-   - 摘要: Instead of buying more stocks when volatility rises, you should sell.
+4. [Here’s a rare chance to invest before big stock-index funds and Wall Street dive in](https://www.marketwatch.com/story/heres-a-rare-chance-to-front-run-wall-streets-best-and-biggest-players-1e98c87e?mod=mw_rss_topstories)
+   - 摘要: Vietnam is expected to be promoted to ‘emerging’ market from ‘frontier’ market. Here’s when you’ll need to act.
    - 来源: MarketWatch - Top Stories
 
-5. [Elon Musk says xAI must be 'rebuilt' as co-founder exodus continues, SpaceX IPO awaits](https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html)
-   - 摘要: With xAI now in the hands of SpaceX, Elon Musk says he's rebuilding the artificial intelligence company following high-level departures.
-   - 来源: CNBC - Top News
-
-6. [Kevin Warsh’s Fed confirmation faces new delay, key senator says. Here’s why.](https://www.marketwatch.com/story/kevin-warshs-fed-confirmation-faces-new-delay-key-senator-says-heres-why-3ffdfa39?mod=mw_rss_topstories)
-   - 摘要: A key U.S. senator warned that Kevin Warsh’s confirmation as the next head of the Federal Reserve faces a fresh delay amid a legal setback...
+5. [Think Russian oil will calm the Iran conflict’s supply panic? Here’s what the math reveals.](https://www.marketwatch.com/story/think-russian-oil-will-calm-the-iran-conflicts-supply-panic-heres-what-the-math-reveals-e392c4be?mod=mw_rss_topstories)
+   - 摘要: Russian oil can reach markets fast. The Iran conflict’s supply fears, however, are much bigger.
    - 来源: MarketWatch - Top Stories
 
-7. [AI agents could easily send college grad unemployment over 30%, ServiceNow CEO says](https://www.cnbc.com/2026/03/13/software-ai-agents-college-graduate-unemployment.html)
-   - 摘要: Technology companies, including Block and Atlassian, have already cut jobs this year due to AI adoption.
+6. [Oil closes above $100 for second day as market shrugs off U.S. measures to reduce prices during Iran war](https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html)
+   - 摘要: Traders are continuing to monitor developments in the Middle East. Overnight, Trump hinted that an end to the conflict was not imminent.
    - 来源: CNBC - Top News
 
-8. [India's Modi reaches out to Iran as energy crunch fears grip the South Asian nation](https://www.cnbc.com/2026/03/13/indias-modi-reaches-out-to-iran-as-energy-crunch-fears-grip-the-south-asian-nation-.html)
-   - 摘要: The closure of the Strait of Hormuz for longer could deepen the worries of the world's fastest-growing economy
+7. [Trump tariffs: Refunds to companies should go to workers as bonuses, raises, Greer says](https://www.cnbc.com/2026/03/13/trump-trade-jamieson-greer-tariff-refunds-workers-companies.html)
+   - 摘要: The United States government could end up paying $165 billion of more in refunds for Trump's IEEPA tariffs that the Supreme Court ruled wer...
+   - 来源: CNBC - Top News
+
+8. [Inside JPMorgan Chase's push to become the startup world’s new Silicon Valley Bank](https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html)
+   - 摘要: For JPMorgan Chase, winning the niche of startup banking from rivals is about more than just gaining deposits: It's a bet to future-proof t...
    - 来源: CNBC - Top News
