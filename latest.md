@@ -1,53 +1,41 @@
-# 每日资讯总览（2026-03-14 13:30:16 CST）
+# 每日资讯总览（2026-03-14 19:25:33 CST）
 
 ## AI与科技
 
-1. [Trump Mobile is just one in the crowd of conservative carriers](https://www.theverge.com/tech/894762/trump-mobile-conservative-mvno-radiant-patriot-puretalk-charity-liberty)
-   - 摘要: Where's the Trump phone? We're going to keep talking about it every week. This week, I wanted to see how Trump Mobile stacks up to its cons...
-   - 来源: The Verge
-
-2. [Instagram is getting rid of end-to-end encrypted DMs that ‘very few’ people used](https://www.theverge.com/tech/894752/instagram-end-to-end-encryption)
-   - 摘要: Instagram will no longer support end-to-end encrypted messages starting May 8th. In a statement to The Verge, Meta spokesperson Dina El-Kas...
-   - 来源: The Verge
-
-3. [Backbone’s versatile pro controller is nearly matching its best price to date](https://www.theverge.com/gadgets/893862/backbone-pro-mobile-controller-cmf-watch-3-deal-sale)
-   - 摘要: Mobile gaming has come a long way over the course of the last decade or so, but we all know that smartphones simply can’t match the viscera...
-   - 来源: The Verge
-
-4. [Ninja’s star Creami ice cream maker is on sale for $169](https://www.theverge.com/gadgets/894461/ninja-creami-5-in-1-ice-cream-maker-deal-sale)
-   - 摘要: If you’ve ever wanted more control over what goes into your ice cream, the Ninja Creami 5‑in‑1 Ice Cream Maker makes it easy. The ice cream...
+1. [European retailers yank popular headphones after study reports trace amounts of hormone-disrupting chemicals](https://www.theverge.com/science/894771/headphones-hormone-disrupting-chemicals-study)
+   - 摘要: Some European retailers have stopped selling certain headphones after an EU-funded study found that they contained hormone-disrupting chemi...
    - 来源: The Verge
 
 ## 财经与商业
 
-1. [Trump says U.S. 'obliterated' military targets on Iran's Kharg Island but didn't 'wipe out' oil infrastructure](https://www.cnbc.com/2026/03/13/trump-says-us-obliterated-military-targets-on-irans-kharg-island-but-didnt-wipe-out-oil-infrastructure.html)
-   - 摘要: President Trump said in a Truth Social post that he directed U.S. Central Command to execute a bombing raid that "obliterated" military tar...
-   - 来源: CNBC - Top News
-
-2. [Uber ex-CEO Kalanick rebrands latest venture Atoms, expands into mining and transport](https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html)
-   - 摘要: Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.
-   - 来源: CNBC - Top News
-
-3. [Mortgage rates surge to highest since September, hitting spring housing market](https://www.cnbc.com/2026/03/13/mortgage-rates-7-month-high.html)
-   - 摘要: Mortgage rates jumped to a seven-month high Friday as war in Iran pushed bond yields higher.
-   - 来源: CNBC - Top News
-
-4. [Here’s a rare chance to invest before big stock-index funds and Wall Street dive in](https://www.marketwatch.com/story/heres-a-rare-chance-to-front-run-wall-streets-best-and-biggest-players-1e98c87e?mod=mw_rss_topstories)
-   - 摘要: Vietnam is expected to be promoted to ‘emerging’ market from ‘frontier’ market. Here’s when you’ll need to act.
+1. [Panic is slowly gripping the stock market. Expect the selling to pick up next week.](https://www.marketwatch.com/story/panic-is-slowly-gripping-the-stock-market-expect-the-selling-to-pick-up-next-week-dc422e90?mod=mw_rss_topstories)
+   - 摘要: Options traders are signaling trouble, and systematic funds are expected to cut their exposure to U.S. stocks.
    - 来源: MarketWatch - Top Stories
 
-5. [Think Russian oil will calm the Iran conflict’s supply panic? Here’s what the math reveals.](https://www.marketwatch.com/story/think-russian-oil-will-calm-the-iran-conflicts-supply-panic-heres-what-the-math-reveals-e392c4be?mod=mw_rss_topstories)
-   - 摘要: Russian oil can reach markets fast. The Iran conflict’s supply fears, however, are much bigger.
+2. [‘I find that advice questionable’: Is it time to rethink the myth of tapping your Roth last — before your 401(k) and IRA?](https://www.marketwatch.com/story/i-find-that-advice-questionable-is-it-time-to-rethink-the-myth-of-tapping-your-roth-last-before-your-401-k-and-ira-2975ac61?mod=mw_rss_topstories)
+   - 摘要: “I’ve read this advice again and again.”
    - 来源: MarketWatch - Top Stories
 
-6. [Oil closes above $100 for second day as market shrugs off U.S. measures to reduce prices during Iran war](https://www.cnbc.com/2026/03/13/oil-100-price-brent-wti-trump-iran-war-surrender-khamenei.html)
-   - 摘要: Traders are continuing to monitor developments in the Middle East. Overnight, Trump hinted that an end to the conflict was not imminent.
+3. [A Paramount-Warner Bros. movie slate could rule the 2027 box office, but is it sustainable?](https://www.cnbc.com/2026/03/14/paramount-wbd-2027-movie-slate.html)
+   - 摘要: Paramount CEO David Ellison has said he wants to make 30 movies a year and has franchises like Godzilla-Kong, Superman and Sonic the Hedgeh...
    - 来源: CNBC - Top News
 
-7. [Trump tariffs: Refunds to companies should go to workers as bonuses, raises, Greer says](https://www.cnbc.com/2026/03/13/trump-trade-jamieson-greer-tariff-refunds-workers-companies.html)
-   - 摘要: The United States government could end up paying $165 billion of more in refunds for Trump's IEEPA tariffs that the Supreme Court ruled wer...
+4. [Eaton finalizes a smart acquisition to advance its AI data center ambitions](https://www.cnbc.com/2026/03/13/eaton-finalizes-a-smart-acquisition-to-advance-its-ai-data-center-ambitions.html)
+   - 摘要: Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.
    - 来源: CNBC - Top News
 
-8. [Inside JPMorgan Chase's push to become the startup world’s new Silicon Valley Bank](https://www.cnbc.com/2026/03/13/jpmorgan-silicon-valley-bank-startup-bank.html)
-   - 摘要: For JPMorgan Chase, winning the niche of startup banking from rivals is about more than just gaining deposits: It's a bet to future-proof t...
+5. [Analysis: The U.S. is running out of ways to get oil prices down. It is up to the military.](https://www.cnbc.com/2026/03/13/trump-iran-oil-prices-military-strait-of-hormuz.html)
+   - 摘要: Iran's threat to the Strait of Hormuz can't be fixed by releasing oil from strategic petroleum reserves.
+   - 来源: CNBC - Top News
+
+6. [All six crew members killed in KC-135 refueling plane crash in Iraq, U.S. military says](https://www.cnbc.com/2026/03/13/us-kc135-crash-iraq-iran-threats-shipping-attacks.html)
+   - 摘要: The KC-135 is used to refuel other aircraft in mid-air. This is the fourth reported aircraft loss since the Iran war started.
+   - 来源: CNBC - Top News
+
+7. [Fourth-quarter GDP revised down to just 0.7% growth; January core inflation was 3.1%](https://www.cnbc.com/2026/03/13/fourth-quarter-gdp-revised-down-to-just-0point7percent-growth-january-core-inflation-was-3point1percent.html)
+   - 摘要: The PCE price index for January was expected to show headline inflation at 2.9% and core at 3.1%.
+   - 来源: CNBC - Top News
+
+8. [How the Iran war could start to impact U.S. retail prices](https://www.cnbc.com/2026/03/13/iran-war-retail-prices.html)
+   - 摘要: The retail industry could soon be taking the next hit from the Iran war's disruption to the global supply chain.
    - 来源: CNBC - Top News
