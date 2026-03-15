@@ -1,77 +1,41 @@
-# 每日资讯总览（2026-03-15 13:50:00 CST）
+# 每日资讯总览（2026-03-15 19:27:31 CST）
 
-## AI与科技（无新增，展示最近内容）
+## AI与科技
 
-1. [OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips](https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/)
-   - 摘要: OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.
-   - 来源: Ars Technica - Technology
-
-2. [MacBook Air M5 review: a small update for the ‘just right’ Mac](https://www.theverge.com/tech/894866/apple-macbook-air-m5-15-2026-laptop-review)
-   - 摘要: Not much has changed in the new MacBook Air for 2026: It now has the M5 chip, Wi-Fi 7, and faster storage starting at 512GB instead of 256G...
-   - 来源: The Verge
-
-3. [Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show](https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/)
-   - 摘要: The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.
-   - 来源: Wired - AI
-
-4. [Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems](https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/)
-   - 摘要: The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from i...
-   - 来源: Wired - AI
-
-5. [OpenAI researcher quits over ChatGPT ads, warns of "Facebook" path](https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/)
-   - 摘要: Zoë Hitzig resigned on the same day OpenAI began testing ads in its chatbot.
-   - 来源: Ars Technica - Technology
-
-6. [AI companies want you to stop chatting with bots and start managing them](https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/)
-   - 摘要: Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.
-   - 来源: Ars Technica - Technology
-
-7. [Meta is reportedly laying off up to 20 percent of its staff](https://www.theverge.com/business/895026/meta-laying-off-20-percent)
-   - 摘要: According to Reuters, Meta is looking to offset spending on AI and data centers with a massive round of layoffs. Sources familiar with the...
-   - 来源: The Verge
-
-8. [Trump administration is allegedly collecting $10 billion on the TikTok deal](https://www.theverge.com/policy/895039/trump-10-billion-tiktok)
-   - 摘要: In September, Donald Trump claimed that "the United States is getting a tremendous fee" for brokering the TikTok deal. Now sources tell the...
-   - 来源: The Verge
-
-9. [Wordle’s creator made a fun new puzzle game](https://www.theverge.com/tech/894586/wordle-parseword-sonos-play-installer)
-   - 摘要: Hi, friends! Welcome to Installer No. 119, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you...
-   - 来源: The Verge
-
-10. [Hulu, Disney Plus, and the Pixel Watch 4 are among this week’s best deals](https://www.theverge.com/gadgets/894699/hulu-disney-plus-subscription-oscars-google-pixel-watch-4-deal-sale)
-   - 摘要: Happy Saturday, all! This week, we found a number of deals that should help you unwind and relax over the next few days (and beyond). If yo...
+1. [The $100,000 fee for H-1Bs is causing all sorts of problems](https://www.theverge.com/policy/894537/h1b-fee-increase-trump-teacher-shortage-tech-workers)
+   - 摘要: Last fall, President Donald Trump's executive order raising the fee for H-1B visas to $100,000 - like many of his immigration policies - le...
    - 来源: The Verge
 
 ## 财经与商业
 
-1. [FCC chair slams broadcasters after Trump disputes reports on Iran-damaged U.S. tankers](https://www.cnbc.com/2026/03/14/trump-iran-war-fcc-chair-carr-broadcasters.html)
-   - 摘要: FCC Chair Brendan Carr blasted broadcasters shortly after President Donald Trump called reports that Iran struck five U.S. tanker planes "f...
+1. [Iran vows to kill Israel's Netanyahu as impact of war on Gulf region widens](https://www.cnbc.com/2026/03/15/iran-war.html)
+   - 摘要: Israel says it has killed two senior Iranian intelligence officials as oil loading reportedly resumes in the UAE's Fujairah port following...
    - 来源: CNBC - Top News
 
-2. [Fertitta in weekend deal talks to acquire Caesars, while billionaire Carl Icahn waits in the wings](https://www.cnbc.com/2026/03/14/fertitta-caesars-talks-casino-acquisition.html)
-   - 摘要: The deal, if it gets done, would not be finalized until early April and is not expected to close until 2027.
+2. [‘I find that advice questionable’: Is it time to rethink the rule of tapping your Roth last — after your 401(k) and IRA?](https://www.marketwatch.com/story/i-find-that-advice-questionable-is-it-time-to-rethink-the-myth-of-tapping-your-roth-last-before-your-401-k-and-ira-2975ac61?mod=mw_rss_topstories)
+   - 摘要: “I’ve read this advice again and again.”
+   - 来源: MarketWatch - Top Stories
+
+3. [Bitcoin beat the S&P 500, Nasdaq Composite and gold since the start of the Iran war](https://www.cnbc.com/2026/03/14/bitcoin-outperforms-sp-500-nasdaq-gold-since-the-start-of-iran-war.html)
+   - 摘要: ProShares' Simeon Hyman is highlighting a bullish bitcoin trend.
    - 来源: CNBC - Top News
 
-3. [Week in review: How we navigated the Iran war-driven surge in oil that slammed stocks](https://www.cnbc.com/2026/03/14/week-in-review-how-we-navigated-the-iran-war-driven-surge-in-oil-that-slammed-stocks.html)
-   - 摘要: The S&P 500 suffered its first three-week losing streak in roughly a year.
+4. [As New York Mayor Zohran Mamdani faces $7 billion budget hole, free parking may be history](https://www.cnbc.com/2026/03/14/mayor-zohran-mamdani-new-york-budget-deficit-parking-tax.html)
+   - 摘要: New York City Mayor Zohran Mamdani is facing a $7 billion budget hole, and the free parking NYC residents have taken for granted may be a r...
    - 来源: CNBC - Top News
 
-4. [‘I’m experiencing issues with arthritis’: I’m 68 with $3 million saved. Why am I not ready for a life of leisure?](https://www.marketwatch.com/story/im-experiencing-issues-with-arthritis-im-68-with-3-million-saved-why-am-i-not-ready-for-a-life-of-leisure-9bc15359?mod=mw_rss_topstories)
-   - 摘要: “I can draw $4,300 a month in Social Security if I retire this summer.”
-   - 来源: MarketWatch - Top Stories
+5. [Older women set to inherit most of $54 trillion in ‘great wealth transfer’ to widowed spouses](https://www.cnbc.com/2026/03/14/great-wealth-transfer-widowed-spouses.html)
+   - 摘要: Because females have longer life expectancies, most of the spousal transfer of assets due to death is expected to go to women. Advisors say...
+   - 来源: CNBC - Top News
 
-5. [‘I didn’t ask a man to rear-end my car’: Social Security is replacing my disability benefits. Will the fund run out of money?](https://www.marketwatch.com/story/i-didnt-ask-a-man-to-rear-end-my-car-social-security-is-replacing-my-disability-benefits-will-the-fund-run-out-of-money-794d81b0?mod=mw_rss_topstories)
-   - 摘要: “I didn’t ask a man to rear-end my car at a red light.”
-   - 来源: MarketWatch - Top Stories
+6. [The biggest release of emergency oil stockpiles in history was announced. Why crude may keep rising](https://www.cnbc.com/2026/03/14/iran-war-iea-oil-stockpile-spr-strait-hormuz.html)
+   - 摘要: Oil prices have surged more than 17% since the International Energy Agency announced the largest release of crude stockpiles in its 50-year...
+   - 来源: CNBC - Top News
 
-6. [Why oil probably won’t go to $150 a barrel](https://www.marketwatch.com/story/why-oil-probably-wont-go-to-150-a-barrel-0c5ecfa5?mod=mw_rss_topstories)
-   - 摘要: Three reasons to be skeptical of the current panic.
-   - 来源: MarketWatch - Top Stories
+7. [Berkshire Hathaway filing provides glimpse of share buyback resumption](https://www.cnbc.com/2026/03/14/berkshire-hathaway-filing-provides-glimpse-of-share-buyback-resumption.html)
+   - 摘要: Berkshire Hathaway filed its definitive proxy statement with the SEC late this afternoon ahead of the company's annual shareholders meeting...
+   - 来源: CNBC - Top News
 
-7. [How to tackle your bucket list before it’s too late, according to the Oscar-nominated director of the film ‘Retirement Plan’](https://www.marketwatch.com/story/how-to-tackle-your-bucket-list-before-its-too-late-according-to-the-oscar-nominated-director-of-the-film-retirement-plan-5f1772f5?mod=mw_rss_topstories)
-   - 摘要: “I’m on top of the hill with a view in both directions,” reports John Kelly, whose animated short ponders life in retirement and the meanin...
-   - 来源: MarketWatch - Top Stories
-
-8. [Can my wife switch to my Social Security benefits if she was born after 1954? I receive a lot more than she does.](https://www.marketwatch.com/story/can-my-wife-switch-to-my-social-security-benefits-if-shes-born-after-1954-i-receive-a-lot-more-than-she-does-7a73b77e?mod=mw_rss_topstories)
-   - 摘要: “We heard something about this no longer being allowed.”
-   - 来源: MarketWatch - Top Stories
+8. [27-year-old Amazon employee relocated from India to Ireland and spends up to $2,927 a month: 'My quality of life has improved'](https://www.cnbc.com/2026/03/14/amazon-software-engineer-relocated-from-india-ireland.html)
+   - 摘要: Suras Nayak moved to Ireland in 2025 and works as a software development engineer at Amazon.
+   - 来源: CNBC - Top News
