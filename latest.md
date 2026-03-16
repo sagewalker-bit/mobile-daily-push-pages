@@ -1,65 +1,77 @@
-# 每日资讯总览（2026-03-16 11:57:33 CST）
+# 每日资讯总览（2026-03-16 14:05:04 CST）
 
-## AI与科技
+## AI与科技（无新增，展示最近内容）
 
-1. [Aether OS is a computer in a browser built for the AT Protocol](https://www.theverge.com/tech/895083/aether-os-browser-at-protocol)
+1. [OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips](https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/)
+   - 摘要: OpenAI's new GPT‑5.3‑Codex‑Spark is 15 times faster at coding than its predecessor.
+   - 来源: Ars Technica - Technology
+
+2. [Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show](https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/)
+   - 摘要: The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.
+   - 来源: Wired - AI
+
+3. [Meta Is Developing 4 New Chips to Power Its AI and Recommendation Systems](https://www.wired.com/story/meta-unveils-four-new-chips-to-power-its-ai-and-recommendation-systems/)
+   - 摘要: The MTIA processors are the tech giant’s latest attempt to build its own AI hardware, even as it continues spending billions on gear from i...
+   - 来源: Wired - AI
+
+4. [OpenAI researcher quits over ChatGPT ads, warns of "Facebook" path](https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/)
+   - 摘要: Zoë Hitzig resigned on the same day OpenAI began testing ads in its chatbot.
+   - 来源: Ars Technica - Technology
+
+5. [AI companies want you to stop chatting with bots and start managing them](https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/)
+   - 摘要: Claude Opus 4.6 and OpenAI Frontier pitch a future of supervising AI agents.
+   - 来源: Ars Technica - Technology
+
+6. [Aether OS is a computer in a browser built for the AT Protocol](https://www.theverge.com/tech/895083/aether-os-browser-at-protocol)
    - 摘要: Aether OS puts a full-fledged desktop in your browser that ties directly into the AT Protocol. That means it connects to your Bluesky accou...
    - 来源: The Verge
 
-2. [AI Czar David Sacks wants Trump to ‘get out’ of Iran](https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran)
+7. [AI Czar David Sacks wants Trump to ‘get out’ of Iran](https://www.theverge.com/policy/895059/trump-ai-czar-out-of-iran)
    - 摘要: David Sacks, the White House's AI and crypto czar, has warned that a continued war in Iran could be catastrophic. On the All In podcast, Sa...
    - 来源: The Verge
 
-3. [Sotomayor’s Wabi Sabi is the funnest record of 2026](https://www.theverge.com/entertainment/895065/sotomayor-wabi-sabi-review)
-   - 摘要: Shout out to subscriber N_Gorski for today's pick. They popped into the comments on last week's recommendation to ask what I thought of the...
-   - 来源: The Verge
+8. [Why physical AI is becoming manufacturing’s next advantage](https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/)
+   - 摘要: For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered mea...
+   - 来源: MIT Technology Review - AI
 
-4. [The fast rise and epic fall of Clubhouse](https://www.theverge.com/podcast/895044/clubhouse-audio-social-network-version-history)
-   - 摘要: In 2020 and 2021, the social media world seemed to be on the verge of complete change. A new app called TikTok was ascendant, bringing a wh...
-   - 来源: The Verge
+9. [Google's AI Search Results Love to Refer You Back to Google](https://www.wired.com/story/google-ai-searches-love-to-refer-you-back-to-google/)
+   - 摘要: The company's generative AI search tools increasingly cite its own services, like Google Search and YouTube, over third-party publishers.
+   - 来源: Wired - AI
 
-5. [AI companies want to harvest improv actors’ skills to train AI on human emotion](https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data)
-   - 摘要: If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voi...
-   - 来源: The Verge
-
-6. [Samsung’s Galaxy Buds 4 Pro are the choice — if you have a Galaxy phone](https://www.theverge.com/tech/894501/samsung-galaxy-buds-4-pro-review)
-   - 摘要: Samsung promised "more than a design refresh" for its new top-end Galaxy Buds - it added upgraded woofers for improved, dual-amped hi-fi so...
-   - 来源: The Verge
-
-7. [Live-service games are a mess](https://www.theverge.com/column/893294/live-service-games-mess)
-   - 摘要: This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the slow-motion disaster of li...
-   - 来源: The Verge
+10. [China’s OpenClaw Boom Is a Gold Rush for AI Companies](https://www.wired.com/story/china-is-going-all-in-on-openclaw/)
+   - 摘要: Hype around the open source agent is driving people to rent cloud servers and buy AI subscriptions just to try it, creating a windfall for...
+   - 来源: Wired - AI
 
 ## 财经与商业
 
-1. [‘It’s all about oil’: FedEx’s transportation costs will be key to this week’s earnings](https://www.marketwatch.com/story/its-all-about-oil-as-fedex-kicks-off-earnings-this-week-f11d6b48?mod=mw_rss_topstories)
-   - 摘要: With results due this week from FedEx and retail names like Lululemon and Macy’s, we’ll likely hear more about consumers’ attitudes, as gas...
+1. [China talks up oil sufficiency as Trump seeks Beijing's help on securing Hormuz energy route](https://www.cnbc.com/2026/03/16/china-oil-reserves-trump-iran-war-hormuz.html)
+   - 摘要: The statistics bureau said that China's energy supply is "relatively strong," while announcing an uptick in domestic production.
+   - 来源: CNBC - Top News
+
+2. [Senate Democrats oppose SAVE America Act as Republicans prepare for floor vote. What to know](https://www.cnbc.com/2026/03/15/trump-save-america-act-senate-2026-elections.html)
+   - 摘要: Senate Democrats remain opposed to SAVE America Act as Republicans prepare for floor vote this week. Here's what to know.
+   - 来源: CNBC - Top News
+
+3. [Democrats blast FCC Chair Carr's broadcast license threats as anti-First Amendment, 'totalitarian'](https://www.cnbc.com/2026/03/15/trump-iran-war-fcc-carr-broadcast-license.html)
+   - 摘要: Carr on Saturday blasted broadcasters shortly after President Donald Trump called reports that Iran struck five U.S. tanker planes "fake ne...
+   - 来源: CNBC - Top News
+
+4. [It was unthinkable a couple of weeks ago, but could the next move by the Fed be a rate hike?](https://www.marketwatch.com/story/it-was-unthinkable-a-couple-of-weeks-ago-but-could-the-next-move-by-the-fed-be-a-rate-hike-dc5e1edb?mod=mw_rss_topstories)
+   - 摘要: With fuel prices soaring since the start of the war with Iran, a question has surfaced that was almost unimaginable a few weeks ago.
    - 来源: MarketWatch - Top Stories
 
-2. [Panic is slowly gripping the stock market. Expect the selling to pick up this week.](https://www.marketwatch.com/story/panic-is-slowly-gripping-the-stock-market-expect-the-selling-to-pick-up-next-week-dc422e90?mod=mw_rss_topstories)
-   - 摘要: Options traders are signaling trouble, and systematic funds are expected to cut their exposure to U.S. stocks.
+5. [The financial sector is sending some spooky technical signals about the stock market](https://www.marketwatch.com/story/the-financial-sector-is-sending-some-spooky-technical-signals-about-the-stock-market-683d1343?mod=mw_rss_topstories)
+   - 摘要: Broken trendlines and a looming ‘death cross’ pattern bode badly for the financial sector, and therefore the rest of the stock market.
    - 来源: MarketWatch - Top Stories
 
-3. [Why Trump has his sights on Iran's Kharg Island — and what it means for the oil market](https://www.cnbc.com/2026/03/16/trump-iran-kharg-island-strikes-oil-exports.html)
-   - 摘要: Trump's decision to order strikes on Kharg Island has pushed one of the world's most critical oil hubs into the center of the escalating U....
-   - 来源: CNBC - Top News
-
-4. [U.S. stock futures, oil prices bounce around as investors weigh developments in Iran conflict](https://www.marketwatch.com/story/u-s-stock-futures-dip-oil-climbs-again-as-investors-brace-for-escalation-of-iran-conflict-6034ee1e?mod=mw_rss_topstories)
-   - 摘要: U.S. stock-index futures reversed early losses on Sunday as the market braced for more volatility in oil prices this week, with the conflic...
+6. [Nvidia’s big GTC event is on deck, and the company faces a very high bar this year](https://www.marketwatch.com/story/nvidias-big-gtc-event-is-on-deck-and-the-company-faces-a-very-high-bar-this-year-8927e906?mod=mw_rss_topstories)
+   - 摘要: Nvidia “is having a harder time moving the needle” these days, one analyst notes.
    - 来源: MarketWatch - Top Stories
 
-5. [Trump signals possible delay to Beijing summit as U.S. pressures China to help reopen Strait of Hormuz](https://www.cnbc.com/2026/03/16/trump-possible-delay-beijing-summit-china-iran-strait-of-hormuz-.html)
-   - 摘要: The remarks came as Treasury Secretary Scott Bessent met his Chinese counterpart He Lifeng in Paris, paving the way for the summit schedule...
+7. [Bank stocks have been crushed this year. 2 of our names should weather the storm](https://www.cnbc.com/2026/03/15/bank-stocks-have-been-crushed-this-year-2-of-our-names-should-weather-the-storm.html)
+   - 摘要: The businesses of Goldman Sachs and Wells Fargo should be largely insulated from the three major headwinds facing the industry.
    - 来源: CNBC - Top News
 
-6. [Asia-Pacific markets fall as oil prices stay elevated amid escalating U.S.-Iran tensions](https://www.cnbc.com/2026/03/16/asia-pacific-markets-nikkei-225-kospi-hang-seng-index.html)
-   - 摘要: Asia-Pacific markets fell as investors continued to monitor elevated oil prices and the latest developments in the escalating U.S.-Iran con...
-   - 来源: CNBC - Top News
-
-7. [Price caps, taking the stairs, and short-sleeved shirts: How countries are coping with the Iran war energy shock](https://www.cnbc.com/2026/03/15/price-caps-and-stairs-how-nations-are-coping-with-the-iran-oil-shock.html)
-   - 摘要: Some countries have imposed price caps and released oil stockpiles to maintain energy supplies, while others are trying to reduce consumpti...
-   - 来源: CNBC - Top News
-
-8. [Trump weighing options to strike Iran's critical oil hub, UN Ambassador Waltz says](https://www.cnbc.com/2026/03/15/iran-war.html)
-   - 摘要: Israel says it has killed two senior Iranian intelligence officials as oil loading reportedly resumes in the UAE's Fujairah port following...
-   - 来源: CNBC - Top News
+8. [These parents retired in their 30s and 40s while raising young kids. Here’s how they pulled it off.](https://www.marketwatch.com/story/these-parents-retired-in-their-30s-and-40s-while-raising-young-kids-heres-how-they-pulled-off-the-impossible-593968bd?mod=mw_rss_topstories)
+   - 摘要: A new generation of money-minded parents is urging young people who want to start families to map a path to early financial independence so...
+   - 来源: MarketWatch - Top Stories
